@@ -1,0 +1,6 @@
+[submodule "scripts/rs-power-supply"]
+	path = scripts/rs-power-supply
+	url = https://github.com/asvela/rs-power-supply
+[submodule "scripts/FC-Mega"]
+	path = scripts/FC-Mega
+	url = https://github.com/TheMariday/FC-Mega
