@@ -12,8 +12,12 @@ Buy them on Tindie: https://www.tindie.com/products/themariday/bappr-v22/
 ## Operational parameters
 
 Input Voltage: 7v to 17v
+
 Output Voltage: 5v ±1%
+
 Output Current: 5A, (6A for 30 second bursts)
+
+Efficiency:
 
 ![efficiency_graph.png](docs/images/efficiency_graph.png)
 
