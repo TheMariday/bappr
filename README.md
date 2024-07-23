@@ -5,9 +5,22 @@
 ![promo_front.jpg](docs/images/promo_front.jpg)
 Version 2.2 ^
 
-Design plans for the BAPPR LED buck converter
-
 Buy them on Tindie: https://www.tindie.com/products/themariday/bappr-v22/
+
+
+The BAPPR is a smart 7v-17v in, 5v 5A buck converter designed for addressable LEDs!
+
+It's smart because it can monitor the LED data and if it stops, the converter will disable its output making your LEDs more efficient!
+
+To enable "smart" mode, place solder over each solder bridge [>>] on the front and back.
+
+**The BAPPR doesn't turn on instantly**, so the first LED buffer you send **needs to be all zeros**, so when your LEDs start reading your buffer halfway through they don't go mad!
+
+**The minimum refresh rate** is roughly 30fps - assuming you have at least 20 LEDs connected.
+
+Hardware schematic, BOM, datasheet and PCB can be found on [GitHub](https://www.github.com/themariday/bappr)
+
+Feedback is much appreciated and a massive thank you to CoilProtogen and everyone from The Electric Fursuits for helping me design and test this <3
 
 ## Operational parameters
 
