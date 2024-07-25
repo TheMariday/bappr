@@ -22,6 +22,10 @@ Hardware schematic, BOM, datasheet and PCB can be found on [GitHub](https://www.
 
 Feedback is much appreciated and a massive thank you to CoilProtogen and everyone from The Electric Fursuits for helping me design and test this <3
 
+# Smart mode
+
+[![YouTube](http://i.ytimg.com/vi/yDg12SgRvWY/hqdefault.jpg)](https://www.youtube.com/watch?v=yDg12SgRvWY)
+
 ## Operational parameters
 
 Input Voltage: 7v to 17v
