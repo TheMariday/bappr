@@ -5,7 +5,10 @@
 ![promo_front.jpg](docs/images/promo_front.jpg)
 Version 3.0 ^
 
-Buy them on Tindie: https://www.tindie.com/products/themariday/bappr-v22/
+Buy 
+[V3 on Tindie (UK)](https://shop.electromage.com/products/bappr-5v-dc-dc-converter-7-18v-input) 
+or 
+[V2.2 on ElectroMage (US)](https://shop.electromage.com/products/bappr-5v-dc-dc-converter-7-18v-input)
 
 
 The BAPPR is a smart 7v-17v in, 5v 5A buck converter designed for addressable LEDs!
