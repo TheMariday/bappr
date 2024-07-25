@@ -3,7 +3,7 @@
 [![Supported Python Version](https://img.shields.io/badge/Version-3.0-blue)]()
 
 ![promo_front.jpg](docs/images/promo_front.jpg)
-Version 2.2 ^
+Version 3.0 ^
 
 Buy them on Tindie: https://www.tindie.com/products/themariday/bappr-v22/
 
