@@ -34,6 +34,10 @@ Efficiency:
 
 ![efficiency_graph.png](docs/images/efficiency_graph.png)
 
+Voltage Regulation
+
+![voltage_regulation.png](docs/images/voltage_regulation.png)
+
 > [!WARNING]
 > The BAPPR gets hot!
 > 
@@ -46,3 +50,10 @@ Efficiency:
 > At 7v, the BAPPR struggles to maintain 5v at high current resulting in a drop of around 0.17 volts per amp
 > 
 > At higher voltages, the BAPPR maintains voltage within ±1%
+
+# Enabling "Smart Mode"
+
+To enable smart mode, apply solder to each of the solder bridges on the front and back as pictured below 
+
+![solder_bridge_back.jpg](docs/images/solder_bridge_back.jpg)
+![solder_bridge_front.jpg](docs/images/solder_bridge_front.jpg)
