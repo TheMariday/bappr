@@ -5,11 +5,6 @@
 ![promo_front.jpg](docs/images/promo_front.jpg)
 Version 3.0 ^
 
-Buy 
-[V3 on Tindie (UK)](https://shop.electromage.com/products/bappr-5v-dc-dc-converter-7-18v-input) 
-or 
-[V2.2 on ElectroMage (US)](https://shop.electromage.com/products/bappr-5v-dc-dc-converter-7-18v-input)
-
 
 The BAPPR is a smart 7v-17v in, 5v 5A buck converter designed for addressable LEDs!
 
@@ -64,3 +59,9 @@ To enable smart mode, apply solder to each of the solder bridges on the front an
 
 ![solder_bridge_back.jpg](docs/images/solder_bridge_back.jpg)
 ![solder_bridge_front.jpg](docs/images/solder_bridge_front.jpg)
+
+
+Buy 
+[V3 on Tindie (UK)](https://www.tindie.com/products/themariday/bappr-v30/) 
+or 
+[V2.2 on ElectroMage (US)](https://shop.electromage.com/products/bappr-5v-dc-dc-converter-7-18v-input)
